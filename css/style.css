@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: #2e5e4b;
+}
+body {
+	background: #d0bb9a;
+}
+ol {
+ padding-top: 20px;
+ padding-left: 20px;
+}
+li {
+	/*list-style: none;*/
+	height: 30px;
+	line-height: 20px;
+}
+
+
+.wrapper {
+	width: 500px;
+	margin: 0 auto;
+}
+.item-delete {
+	/*font-size: 20px;*/
+	padding-left: 10px;
+	color: red;
+}
+.item-edit {
+	/*font-size: 20px;*/
+	color: #2e415e;
+	padding-left: 10px;
+}
+input {
+	background: #d0bb9a;
+}
+button {
+	width: 50px;
+	height: 25px;
+	background: #4b2e5e;
+	color: red;
+}
